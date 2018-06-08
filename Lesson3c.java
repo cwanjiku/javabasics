@@ -1,7 +1,7 @@
 package com.company;
 
 public class Lesson3c {
-    public static void main(String[] args) {
+ //   public static void main(String[] args) {
         //loops
         //types of loops 1) for, 2)foreach, 3)while
         //<=
@@ -11,7 +11,7 @@ public class Lesson3c {
            // System.out.println(i + "catherine");
             int results = i * i;
             System.out.println( i + "*" + i + "=" +results);
-        }*/
+        }
 
 
         // for each used when there is an array
@@ -22,7 +22,7 @@ public class Lesson3c {
         for (String x : names) {
             System.out.println(x);
 
-        }*/
+        }
 
       int z =10;// assign a value
 
@@ -42,7 +42,7 @@ public class Lesson3c {
 
         }
 
-
+*/
 
 
     }
